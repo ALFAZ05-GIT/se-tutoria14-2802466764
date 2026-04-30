@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 Nama : Mohammad Alfaz Bbhuiyan
 NIM  : 2802466764
 Kelas : TK01
 Makanan Kesukaan : Kebab Goreng
-=======
-Nama : Mohammad Alfaz Bbhuiyan
-Nim : 2802466764
-Kelas : TK01
-Makanan Kesukaan : Kebab
->>>>>>> dd767b5fd0968097ac43db80065e88fb0b85418f
